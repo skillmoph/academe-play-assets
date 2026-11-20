@@ -1,0 +1,42 @@
+ACADEME PLAY | ACERVO GRATUITO CC0
+Verificado em 20/11/2026
+
+Conteúdo desta pasta
+- Superpowers Ninja Adventure: 253 arquivos, com personagens, cenários, itens, HUD, efeitos visuais, música e efeitos sonoros.
+- Superpowers Medieval Fantasy: 189 arquivos, com personagens, cenários, itens, música e efeitos sonoros.
+- Juhani Junkala: 512 efeitos sonoros WAV + INFO com licença.
+- Juhani Junkala: 5 músicas WAV em loop + INFO com licença.
+- Quaternius Universal Animation Library STANDARD: 45 animações em um personagem humanoide, nas versões FBX/GLB para Unity, Unreal e Godot, além de imagens de configuração e licença. São formatos alternativos do mesmo conjunto, não 45 arquivos separados.
+- Licença CC0 do Superpowers.
+Total do acervo: 969 arquivos de origem, cerca de 169 MB descompactados. O manifesto e este guia são adicionais.
+
+LICENÇA
+Todos os conjuntos baixados acima são CC0. Permitem uso comercial, adaptação e redistribuição, sem crédito obrigatório. Mantivemos os arquivos de licença/INFO dos autores. CC0 não concede direitos de marca e não oferece garantia.
+
+FONTES OFICIAIS
+Superpowers: https://github.com/sparklinlabs/superpowers-asset-packs
+Ninja Adventure: https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/ninja-adventure
+512 SFX: https://opengameart.org/content/512-sound-effects-8-bit-style
+5 músicas: https://opengameart.org/content/5-chiptunes-action
+Animações Standard: https://opengameart.org/content/universal-animation-library
+Detalhes atuais do autor: https://quaternius.itch.io/universal-animation-library
+
+COMO USAR NA ACADEME PLAY
+1. Escolher um estilo por jogo. Começar com Ninja Adventure OU Medieval Fantasy, sem misturar os dois por padrão.
+2. Arquivos estão soltos por preferência de entrega. O prefixo identifica o conjunto; os separadores __ representam as pastas originais. O manifesto lista todos os nomes.
+3. PNG/GIF precisam de configuração de frames, escala e colisão no motor. WAV/OGG precisam de controle de volume e reprodução. Não são jogos prontos nem uma integração automática.
+4. As animações 3D exigem personagem com rig compatível e retargeting. Escolher o formato do motor; não importar todas as variantes como conteúdo diferente.
+5. No ambiente escolar, selecionar os elementos adequados à faixa etária. Estes pacotes também contêm armas, monstros e sons de combate. A pasta preserva os pacotes; não é uma curadoria pedagógica concluída.
+6. Antes de embutir em um serviço de geração, montar um catálogo com categoria, estilo, formato, escala/tamanho, licença e URL de origem. A IA deve escolher IDs desse catálogo, em vez de inventar nomes de arquivos.
+
+OUTROS ACERVOS GRATUITOS VERIFICADOS, NÃO COPIADOS NESTA PASTA
+- Kenney: sprites, UI, áudio, modelos, texturas. Pacotes individuais CC0 gratuitos: https://kenney.nl/assets . Pixel Platformer: 200 arquivos, tiles 18x18: https://kenney.nl/assets/pixel-platformer . Download > Continue without donating. O All-in-1 é pago e não foi adquirido.
+- Kenney Prototype Textures: texturas de prototipagem CC0, download individual gratuito: https://kenney.nl/assets/prototype-textures . A página pode mudar sua contagem, consultar antes de usar.
+- Quaternius Ultimate Nature: 150 modelos em Blend, FBX e OBJ, CC0, ZIP anunciado de 21 MB: https://quaternius.itch.io/150-lowpoly-nature-models . Contribuição opcional.
+- ambientCG: materiais PBR, HDRIs e modelos CC0: https://ambientcg.com/ . O acesso Batch Downloader/Nextcloud fica em Special Access, não foi tratado como pacote integral gratuito.
+- Poly Haven: modelos, texturas e HDRIs CC0. Licença: https://polyhaven.com/license . Não copiamos o acervo inteiro.
+
+OBSERVAÇÕES
+A edição gratuita Standard da Universal Animation Library contém 45 animações. O anúncio de 120+ refere-se ao catálogo completo, com versões pagas. Não compramos nada.
+O motor Superpowers não é mais mantido, mas os assets têm licença própria CC0 e podem ser usados em outros motores.
+Não alteramos a Academe Play nem qualquer aplicativo.
